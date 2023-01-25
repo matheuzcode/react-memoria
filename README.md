@@ -6,7 +6,7 @@ Este projeto foi feito em aula do curso [B7Web](https://b7web.com.br).
   <img src="https://user-images.githubusercontent.com/98724767/214711436-e9802e8b-8c81-433d-beb4-ad62a98e0690.png" /.
 </div>
 
-## Available Scripts
+## How to acesss
 
 In the project directory, you can run:
 
