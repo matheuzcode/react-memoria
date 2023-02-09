@@ -1,5 +1,7 @@
 # Jogo da Memória
 
+The memory game is a classic game made up of pieces that have a figure on one side and the goal is to find all the same pairs of that figure. Whoever completes all the pairs in less time and less moves wins the game.
+
 Este projeto foi feito em aula do curso [B7Web](https://b7web.com.br).
 
 <div>
